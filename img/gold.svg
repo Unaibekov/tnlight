@@ -1,0 +1,23 @@
+<svg width="282" height="268" viewBox="0 0 282 268" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M55 181H227L232 218H50L55 181Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M55 181H227L232 218H50L55 181Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M55 181H227L232 218H50L55 181Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M47.4395 60H234.56L240 91H42L47.4395 60Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M47.4395 60H234.56L240 91H42L47.4395 60Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M47.4395 60H234.56L227 181H55L47.4395 60Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M42 91H240L232 218H50.0001L42 91Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M47.4268 60L42 91L50 218L54.9873 181L47.4268 60Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M47.4268 60L42 91L50 218L54.9873 181L47.4268 60Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M234.561 60L239.987 91L231.987 218L227 181L234.561 60Z" fill="#F7C61A" fill-opacity="0.3"/>
+<path d="M234.548 60L239.975 91L231.975 218L226.987 181L234.548 60Z" fill="#F7C61A" fill-opacity="0.3"/>
+<g filter="url(#filter0_f)">
+<path d="M55 181H227L232 218H50L55 181Z" fill="#F7C61A"/>
+</g>
+<defs>
+<filter id="filter0_f" x="0" y="131" width="282" height="137" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="25" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>

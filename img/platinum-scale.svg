@@ -1,0 +1,24 @@
+<svg width="283" height="268" viewBox="0 0 283 268" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M244 0H59L50 181H216L244 0Z" fill="white" fill-opacity="0.05"/>
+<path d="M265 25H69L56 218H233L265 25Z" fill="white" fill-opacity="0.05"/>
+<path d="M216 181H50L56.0001 218H233L216 181Z" fill="white" fill-opacity="0.05"/>
+<path d="M216 181H50L56.0001 218H233L216 181Z" fill="white" fill-opacity="0.05"/>
+<path d="M244 0H59L69 25H265L244 0Z" fill="white" fill-opacity="0.05"/>
+<path d="M244 0H59L69 25H265L244 0Z" fill="white" fill-opacity="0.05"/>
+<path d="M244 0L265 25L233 218L216 181L244 0Z" fill="white" fill-opacity="0.05"/>
+<path d="M244 0L265 25L233 218L216 181L244 0Z" fill="white" fill-opacity="0.05"/>
+<path d="M244 0L265 25L233 218L216 181L244 0Z" fill="white" fill-opacity="0.05"/>
+<path d="M59 0L69 25L56 218L50 181L59 0Z" fill="white" fill-opacity="0.05"/>
+<path d="M59 0L69 25L56 218L50 181L59 0Z" fill="white" fill-opacity="0.05"/>
+<path d="M59 0L69 25L56 218L50 181L59 0Z" fill="white" fill-opacity="0.05"/>
+<g filter="url(#filter0_f)">
+<path d="M216 181H50L56.0001 218H233L216 181Z" fill="white" fill-opacity="0.5"/>
+</g>
+<defs>
+<filter id="filter0_f" x="0" y="131" width="283" height="137" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="25" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>
